@@ -57,7 +57,6 @@ dependencies:
   - python-dateutil=2.8.2
   - python-tzdata=2023.3
   - pytz=2023.3.post1
-  - pywin32=305
   - pyzmq=25.1.2
   - requests=2.31.0
   - setuptools=68.2.2
@@ -71,14 +70,11 @@ dependencies:
   - typing_extensions=4.10.0
   - tzdata=2024a
   - urllib3=1.26.18
-  - vc=14.2
-  - vs2015_runtime=14.27.29016
   - wcwidth=0.2.5
   - websockets=10.4
   - wheel=0.41.2
-  - win_inet_pton=1.1.0
-  - xz=5.4.6=h8cc25b3_0
-  - zeromq=4.3.5=hd77b12b_0
-  - zlib=1.2.13=h8cc25b3_0
+  - xz=5.4.6
+  - zeromq=4.3.5
+  - zlib=1.2.13
   - pip:
       - sortedcontainers==2.4.0
